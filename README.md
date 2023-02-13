@@ -8,3 +8,5 @@ Desta forma a página devolve na tela sua tabuada completa.
 TECNOLOGIAS HTML, CSS E JAVASCRIPT
 
 AUTORES Apenas eu mesma
+
+PÁGINA https://tabuada-eosin.vercel.app
